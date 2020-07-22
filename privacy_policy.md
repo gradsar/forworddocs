@@ -1,1 +1,1 @@
-
+This app does not make use of personal data, except insofar as such data may be used in the making on in-app purchases.
